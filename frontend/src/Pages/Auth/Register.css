@@ -1,0 +1,38 @@
+.form-container {
+    max-width: 60vh;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-container input,
+  .form-container select {
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-container select {
+    width: 95%;
+  }
+  
+  .form-container button {
+    width: 95%;
+    padding: 10px;
+    background-color: #7ee194;
+    color: rgb(73, 73, 73);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
+  .form-container button:hover {
+    background-color: #000000;
+    color: white;
+  }
+  
